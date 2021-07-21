@@ -16,4 +16,4 @@ Environment Used: Xilinx 14.7 ISE Design Suite
 ### Snapshot of an Example Waveform
 ![Example](https://github.com/Siddhartha-Dhar/Digital_Circuits_VHDL/blob/main/Counters/Async_Up_Down_4bit_STRCTL/Example_SS.png)
 ### Circuit Diagram
-![Circuit_Diagram](https://github.com/Siddhartha1999/Counter_4bit_UD_Async_STRCTL/blob/main/Circuit_Diagram.png)
+![Circuit_Diagram](https://github.com/Siddhartha-Dhar/Digital_Circuits_VHDL/blob/main/Counters/Async_Up_Down_4bit_STRCTL/Circuit_Diagram.png)
