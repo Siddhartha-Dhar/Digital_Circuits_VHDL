@@ -3,7 +3,7 @@ Construction of 4 bit ALU in VHDL using Structural Modeling
 
 ## Design of the ALU
 ### The Top Level design of the 4 bit ALU is as follows:
-![ALU_TopLevel](https://github.com/Siddhartha1999/ALU_4bit_Structural_Modeling/blob/main/ALU_TopLevel.png)
+![ALU_TopLevel](https://github.com/Siddhartha-Dhar/Digital_Circuits_VHDL/blob/main/Combinational/ALU_4bit/ALU_4bit_STRCTL/ALU_TopLevel.png)
 
 ### The next abstracted view of the 4 bit ALU is as follows:
 ![ALU_Detailed](https://github.com/Siddhartha1999/ALU_4bit_Structural_Modeling/blob/main/ALU_Detailed.png)
