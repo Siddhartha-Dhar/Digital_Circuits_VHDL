@@ -14,6 +14,6 @@ Environment Used: Xilinx 14.7 ISE Design Suite
 * JK Flip Flop (Behavioral)
 * Control_Block (Data Flow)
 ### Snapshot of an Example Waveform
-![Example](https://github.com/Siddhartha1999/Counter_4bit_UD_Async_STRCTL/blob/main/Example_SS.png)
+![Example](https://github.com/Siddhartha-Dhar/Digital_Circuits_VHDL/blob/main/Sequential/Counters/Async_Up_Down_4bit_STRCTL/Example_SS.png)
 ### Circuit Diagram
 ![Circuit_Diagram](https://github.com/Siddhartha1999/Counter_4bit_UD_Async_STRCTL/blob/main/Circuit_Diagram.png)
