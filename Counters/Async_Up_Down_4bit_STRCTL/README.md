@@ -1,4 +1,4 @@
-# Counter_4bit_UD_Async_STRCTL
+# Asynchronous 4bit Up/Down Counter using Structural Modeling
 4bit Up/Down Asynchronous Counter using Structural Modeling in VHDL
 
 Language Used: VHDL
